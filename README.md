@@ -38,7 +38,7 @@ pmm-admin config --server-insecure-tls --server-url=https://admin:<admin_passwor
 
 <h2>
 Step 4: Create a PMM user for monitoring
-<h2>
+</h2>
 
 1. Run the following SQL commands to create a dedicated user for PMM monitoring: For MySQL 8.0:
 CREATE USER 'pmm'@'127.0.0.1' IDENTIFIED BY '<your_password>' WITH MAX_USER_CONNECTIONS 10;

@@ -52,19 +52,20 @@ GRANT SELECT, PROCESS, REPLICATION CLIENT, RELOAD, SUPER ON *.* TO 'pmm'@'127.0.
 pmm-admin add mysql --query-source=perfschema --username=pmm --password=<your_password>
 
 
+<h2>
+PMM Monitoring 
+</h2>
 
 <img width="946" alt="Screenshot 2025-06-24 082300" src="https://github.com/user-attachments/assets/977561c9-4dcf-442b-b463-4885bfb63198" />
-<img width="946" alt="Screenshot 2025-06-24 082300" src="https://github.com/user-attachments/assets/977561c9-4dcf-442b-b463-4885bfb63198" />
-
 
 
 
 <img width="953" alt="Screenshot 2025-06-24 192707" src="https://github.com/user-attachments/assets/db3eb748-ef68-4b51-a7c0-a3b918dad931" />
-<img width="953" alt="Screenshot 2025-06-24 192707" src="https://github.com/user-attachments/assets/db3eb748-ef68-4b51-a7c0-a3b918dad931" />
 
 
-
-<img width="481" alt="Screenshot 2025-06-24 192311" src="https://github.com/user-attachments/assets/10fcbbc0-0dc8-404b-afb4-b242c6e61be7" />
+<h2>
+Sending the alerts to Discord Servers
+</h2>
 <img width="481" alt="Screenshot 2025-06-24 192311" src="https://github.com/user-attachments/assets/10fcbbc0-0dc8-404b-afb4-b242c6e61be7" />
 
 

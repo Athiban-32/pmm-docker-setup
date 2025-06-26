@@ -1,4 +1,4 @@
-# pmm-docker-setup
+# pmm-docker-setup 
 Install Percona Monitoring and Management on Docker
 
 <h2> 
@@ -64,7 +64,7 @@ PMM Monitoring
 
 
 <h2>
-Sending the alerts to Discord Servers
+🚨Sending the alerts to Discord Servers
 </h2>
 <img width="481" alt="Screenshot 2025-06-24 192311" src="https://github.com/user-attachments/assets/10fcbbc0-0dc8-404b-afb4-b242c6e61be7" />
 
